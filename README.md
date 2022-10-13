@@ -36,4 +36,3 @@ Request me via [email](https://github.com/Spark4bhi) or DM at discord
 
 For support, email spark4bhi@gmail.com or Dm me on discord Abhinav K#8242.
 
-# Discord-Bot-Website-
