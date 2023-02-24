@@ -1,7 +1,8 @@
 
 # Discord Bot Website
 
-A website template for your Discord Bot!!
+A website template for your Discord Bot!! 
+Made with tailwind!!
 
 
 ## Features
